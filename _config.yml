@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Purchasing Toolpak Blog
 tagline:             'Tools and Templates for Professional Buyers'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Click home to return to <a href="https://purchasingtoolpak.com" target="_blank">Purchasing Toolpak</a> a site focused on tools and templates for professional buyers.</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             '/lanyon'
 paginate:            5
