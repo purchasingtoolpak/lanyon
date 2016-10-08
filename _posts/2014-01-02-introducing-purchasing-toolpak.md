@@ -3,7 +3,7 @@ layout: post
 title: Introducing Purchasing Toolpak
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Purchaing Toolpak is tools and templates for professional buyers. Helping buyers improve productivity as they create develop sourcing strategies, collaborate with suppliers and complete transactional activities.
 
 ### Use Exel and Word Templates
 
