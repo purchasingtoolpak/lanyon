@@ -1,38 +1,32 @@
 ---
 layout: post
 title: Introducing Purchasing Toolpak
+published: true
 ---
 
-Purchaing Toolpak is tools and templates for professional buyers. Helping buyers improve productivity as they create develop sourcing strategies, collaborate with suppliers and complete transactional activities.
+-Purchasing Toolpak is tools and templates for professional buyers. Helping buyers improve productivity as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
 
-### Use Exel and Word Templates
+### Use Excel and Word Templates
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+The templates are compatible with Microsoft Office Excel and Word. In addition the templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. Any templates using macros will only work with Excel for Windows.
 
 ### Some of the most popular templates
 
-In addition to the features of Poole, Lanyon adds the following:
+Some of the most popular templates and tools are:
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
+* **Purchase Order** - The purchase order template provides the information needed to order parts or services. There are two purchase order templates; one for ordering parts and a second for the purchase of services. 
+* **Bid Evaluation** - Quickly evaluate bids from multiple suppliers. After entering description, quantity and price for each supplier, the bid evaluation template does the rest of the work!
+* **Request for Quotation** - Utilize this template to request suppliers to submit bids for materials, services
+or equipment.
+* **Supplier Profile Form** - Use the supplier profile form to help assess a supplier's capabilities. Assess the profile to determine if the supplier(s) are capable to participate in the competitive bid process. Use the form to screen new or innovative suppliers prior to technical review by R&D or Engineering.
+* **Contract Approval** - In many organizations procurement policy requires management approval of contracts. Use this template for approval of procurement contracts.
 
-[Head to the readme](https://github.com/purchasingtoolpak/purchsingtoolpak#readme) to learn more.
+### Future Development
 
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+A number of templates are planned to be released in the future. Subscribe to Purchasing Toolpak blog to learn about new tool and templates for professional buyers.
 
 ### Download
 
-Purchaing Toolpak is developed on and hosted with GitHub. Head to the <a href="https://github.com/purchasingtoolpak">GitHub repository</a> for downloads, bug reports, and features requests.
+Purchasing Toolpak is developed on and hosted with GitHub. Head to the <a href="https://github.com/purchasingtoolpak">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
