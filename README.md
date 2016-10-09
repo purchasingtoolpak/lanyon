@@ -131,4 +131,17 @@ Lanyon has two branches, but only one is used for active development.
 
 Open sourced under the [MIT license](LICENSE.md).
 
+## Blog Posts
+Inline HTML elements
+
+HTML defines a long list of available inline tags, a complete list of which can be found on the Mozilla Developer Network.
+
+To bold text, use <strong>.
+To italicize text, use <em>.
+Abbreviations, like HTML should use <abbr>, with an optional title attribute for the full phrase.
+Citations, like — Mark otto, should use <cite>.
+Deleted text should use <del> and inserted text should use <ins>.
+Superscript text uses <sup> and subscript text uses <sub>.
+Most of these elements are styled by browsers with few modifications on our part.
+
 <3
