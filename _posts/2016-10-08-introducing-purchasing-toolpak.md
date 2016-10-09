@@ -27,6 +27,6 @@ A number of templates are planned to be released in the future. Subscribe to Pur
 
 ### Download
 
-Purchasing Toolpak is developed on and hosted with GitHub. Head to the <a href="https://github.com/purchasingtoolpak">GitHub repository</a> for downloads, bug reports, and features requests.
+Purchasing Toolpak is developed on and hosted with GitHub. Head to the <a href="https://github.com/purchasingtoolpak/purchasingtoolpak">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
