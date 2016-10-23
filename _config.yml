@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Purchasing Toolpak Blog
 tagline:             'Tools and Templates for Professional Buyers'
-description:         'Click home to return to <a href="https://purchasingtoolpak.com" target="_blank">Purchasing Toolpak</a> a site focused on tools and templates for professional buyers.</a>.'
+description:         'Click home to return to <a href="http://purchasingtoolpak.com" target="_blank">Purchasing Toolpak</a> a site focused on tools and templates for professional buyers.</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             '/purchasing-toolpak-blog'
 paginate:            5
