@@ -4,7 +4,7 @@ title: Introducing Purchasing Toolpak
 published: true
 ---
 
--Purchasing Toolpak is tools and templates for professional buyers. Helping buyers improve productivity as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
+Purchasing Toolpak provides tools and templates for professional buyers. The templates help buyers improve productivity as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
 
 ### Use Excel and Word Templates
 
