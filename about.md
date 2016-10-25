@@ -1,30 +1,33 @@
 ---
 layout: page
-title: About
+title: About Purchasing Toolpak Blog
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Purhcasing Toolpak Blog is about tools and templates for professional buyers.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hi my name is David Mak, I am leading the effort to make procurement tools and templates available to all professional buyers. These
+tools are used for strategic sourcing, procurement to pay (transactional activities) and supplier integration.
 
-There are currently two themes built on Poole:
+## Why would you use these tools and templates?
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* These tools and templates will save you time from re-inventing the wheel.
+* If you are a small company or organization - you now have access to big company templates and tools.
+* Maybe you are new to procurement and need to get up to speed quickly.
+* Your organization lacks training materials and tools.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
 
-Some fun facts about the setup of this project include:
+## How to get started?
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Some tips about the setup of this project include:
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* You can download all templates by clicking <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/archive/master.zip">here</a>
+* Templates are compatible with Microsoft Office for Windows, Mac, IOS and Android. In addition templates work with Apple Pages, Google Docs and Sheets. In addition you may use Apache Open Office
+* Designed and developed based upon the experience and knowledge or procurement professionals
+
+Learn more and contribute on [GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak/issues/new) or <a href="purchasingtoolpak.com/#contact">contact me</a> via email.
 
 Thanks for reading!
