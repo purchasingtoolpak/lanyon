@@ -28,6 +28,6 @@ Some tips about the setup of this project include:
 * Designed and developed based upon the experience and knowledge or procurement professionals
 
 Learn more and contribute on [GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak).
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak/issues/new) or <a href="purchasingtoolpak.com/#contact">contact me</a> via email.
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak/issues/new) or <a href="http://purchasingtoolpak.com/#contact">contact me</a> via email.
 
 Thanks for reading!
