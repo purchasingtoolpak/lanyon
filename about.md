@@ -4,11 +4,11 @@ title: About Purchasing Toolpak Blog
 ---
 
 <p class="message">
-  Purhcasing Toolpak Blog is about tools and templates for professional buyers.
+  Purchasing Toolpak Blog is about tools and templates for professional buyers.
 </p>
 
 Hi my name is David Mak, I am leading the effort to make procurement tools and templates available to all professional buyers. These
-tools are used for strategic sourcing, procurement to pay (transactional activities) and supplier integration.
+tools are used for strategic sourcing, procure to pay (transactional activities) and supplier integration.
 
 ## Why would you use these tools and templates?
 
