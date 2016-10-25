@@ -12,9 +12,9 @@ tools are used for strategic sourcing, procure to pay (transactional activities)
 
 ## Why would you use these tools and templates?
 
-* These tools and templates will save you time from re-inventing the wheel.
-* If you are a small company or organization - you now have access to big company templates and tools.
-* Maybe you are new to procurement and need to get up to speed quickly.
+* By not re-inventing the wheel these tools and templates will save you time.
+* If you are a small company or organization - you now have access to templates and tools used by many professional buyers.
+* Maybe you are new to procurement - use these templates to get up to speed quickly.
 * Your organization lacks training materials and tools.
 
 
@@ -24,7 +24,7 @@ tools are used for strategic sourcing, procure to pay (transactional activities)
 Some tips about the setup of this project include:
 
 * You can download all templates by clicking <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/archive/master.zip">here</a>
-* Templates are compatible with Microsoft Office for Windows, Mac, IOS and Android. In addition templates work with Apple Pages, Google Docs and Sheets. In addition you may use Apache Open Office
+* Templates are compatible with Microsoft Office for Windows, Mac, IOS and Android. In addition templates work with Apple Pages, Apache Open Office, Google Docs and Sheets.
 * Designed and developed based upon the experience and knowledge or procurement professionals
 
 Learn more and contribute on [GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak).
