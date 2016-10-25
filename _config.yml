@@ -8,7 +8,7 @@ title:               Purchasing Toolpak Blog
 tagline:             'Tools and Templates for Professional Buyers'
 description:         'Click here to return to <a href="http://purchasingtoolpak.com" target="_blank">Purchasing Toolpak</a> a site focused on tools and templates for professional buyers.</a>.'
 url:                 http://lanyon.getpoole.com
-baseurl:             '/purchasing-toolpak-blog'
+baseurl:             
 paginate:            5
 
 # About/contact
