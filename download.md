@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download Purchasing Toolpak
+title: Download
 ---
 
 <section id="team" class="bg-light-gray">
