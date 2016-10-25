@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Purchasing Toolpak Blog
+title: About
 ---
 
 <p class="message">
