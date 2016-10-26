@@ -8,7 +8,8 @@ Purchasing Toolpak provides tools and templates for professional buyers. The tem
 
 ### Use Excel and Word Templates
 
-The templates are compatible with Microsoft Office Excel and Word. In addition the templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. Any templates using macros will only work with Excel for Windows.
+The templates are compatible with Microsoft Office Excel and Word. In addition the templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. Any templates using macros will only work with Excel for Windows. Microsoft® and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States
+and/or other countries.
 
 ### Some of the most popular templates
 
