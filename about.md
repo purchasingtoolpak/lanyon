@@ -25,7 +25,7 @@ Some tips about the setup of this project include:
 
 * You can download all templates by clicking <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/archive/master.zip">here</a>
 * Templates are compatible with Microsoft Office for Windows, Mac, IOS and Android. In addition templates work with Apple Pages, Apache Open Office, Google Docs and Sheets.
-* Designed and developed based upon the experience and knowledge or procurement professionals
+* Designed and developed based upon the experience and knowledge of procurement professionals
 
 Learn more and contribute on [GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak).
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/purchasingtoolpak/purchasingtoolpak/issues/new) or <a href="http://purchasingtoolpak.com/#contact">contact me</a> via email.
