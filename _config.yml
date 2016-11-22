@@ -20,8 +20,8 @@ author:
 # Custom vars
 version:             1.0.0
 
-gems:
-  - jekyll-sitemap
+#gems:
+# - jekyll-sitemap
   
 # Google services
   google_analytics: UA-86996516-1
