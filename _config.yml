@@ -24,4 +24,4 @@ version:             1.0.0
 # - jekyll-sitemap
   
 # Google services
-  google_analytics: UA-86996516-1
+#  google_analytics: UA-86996516-1
