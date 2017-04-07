@@ -4,7 +4,7 @@ title: Sourcing Strategy Template
 published: true
 ---
 
-## Sourcing Strategy Teamplate
+## Sourcing Strategy Template
 
 ### Week One of Ten Templates in Ten Weeks
 
