@@ -47,7 +47,7 @@ Below are snapshots from the procurement sourcing strategy template:
 
 </div>
 
-To download this template go to <a href="purchasingtoolpak/strategic-sourcing/strategy-development/sourcing-strategy-template.docx">sourcing strategy template</a>. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download">link</a>.
+To download this template go to <a href="http://github.com/purchasingtoolpak/purchasingtoolpak/strategic-sourcing/strategy-development/sourcing-strategy-template.docx">sourcing strategy template</a>. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download">link</a>.
 
 If you have questions or comments about this template please contact mee through this link: 
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
