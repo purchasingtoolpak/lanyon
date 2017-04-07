@@ -17,7 +17,7 @@ The strategic sourcing template is the first procurement template in our series 
 - Can be used for a broad range of buying categories
 - Strategy developed in a 6 page Word document, limits big Power Point decks
 
-Using the template the buyer assesses the industry buying category, evaluates current and potential suppliers then completes an assessment of business and stakeholder needs. Folling this analysis a summary, recomendation and plan are completed.
+Using the template the buyer assesses the industry buying category, evaluates current and potential suppliers then completes an assessment of business and stakeholder needs. Following this analysis a summary, recomendation and plan are completed.
 
 Below some snapshots from the procurement sourcing strategy template:
 
