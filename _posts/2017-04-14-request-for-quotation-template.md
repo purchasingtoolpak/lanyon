@@ -4,7 +4,7 @@ title: Request for Quotation Template
 published: true
 ---
 
-This is week two of ten templates in ten weeks. To see week one - go to the [sourcing strategy template]({{site.baseurl}}/2017-04-07/sourcing-strategy-template) blog post.
+This is week two of ten templates in ten weeks. To see week one - go to the [sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template) blog post.
 
 The request for quotation template is one of my favorites for a buying category bid. Use this template for a major bid event - typically for a multi-year agreement.
 
