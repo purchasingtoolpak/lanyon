@@ -18,10 +18,10 @@ The supplier cost improvement template is organized into four sections:
 
 1. **The first section is completed by the supplier**. A description of the cost improvement idea is detailed. The supplier assesses the potential impacts to quality and the environment.  A savings estimate is provided along with the costs to implement.
 2. **Procurement completes the second section.** Contract implications are reviewed and the buyer identifies the source of the cost improvement idea.
-3. **Section three is completed by R&D/Engineering.** The objections of this section is to scope the project. Key areas to evaluate are challenges, risks, success factors and capital needs. A project feasibility rating is assigned.
+3. **Section three is completed by R&D/Engineering.** The objective of this section is to scope the project. Key areas to evaluate are challenges, risks, success factors and capital needs. A project feasibility rating is assigned.
 4. **The last section recommends next steps for the project.**
 
-If your organization has 25 key suppliers and each supplier provides 10 ideas - a total of 250 projects would need review. The objective is to identify projects with a high probability of success and above average cost benefits and minimal impact to quality or growth.
+If your organization has 25 key suppliers and each supplier provides 10 ideas - a total of 250 projects would need review. The objective is to identify projects with a high probability of success and above average cost benefits with minimal impact to quality or growth.
 
 Here are some screen shots of the supplier cost improvement template:
 <div style="text-align:left" markdown="1">
