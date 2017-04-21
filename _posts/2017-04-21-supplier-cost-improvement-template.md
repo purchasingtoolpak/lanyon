@@ -27,11 +27,11 @@ Here are some screen shots of the supplier cost improvement template:
 <div style="text-align:left" markdown="1">
 ###  Section to be Completed by Supplier
 
-![supplier-section]({{site.baseurl}}/img/supplier-section.png
+![supplier-section]({{site.baseurl}}/img/supplier-section.png)
 
 ### Project Scope Section
 
-![project-scope]({{site.baseurl}}/img/project-scope.png
+![project-scope]({{site.baseurl}}/img/project-scope.png)
 </div>
 
 To download this template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/supplier-cost-improvement-template.docx">sourcing strategy template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
