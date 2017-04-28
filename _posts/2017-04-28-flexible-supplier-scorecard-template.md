@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flexible Supplier Scorecard Template
-published: draft
+published: true
 ---
 
 This is week four of ten new templates in ten weeks. If you are new to this blog, be sure to check out the procurement templates from weeks one, two and three:
