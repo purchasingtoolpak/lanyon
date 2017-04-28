@@ -16,9 +16,9 @@ The flexible scorecard template will work with most buying categories.  Buyers c
 
 This template has five major attributes with three sub-attributes stating the scorecard criteria. A rating scale of one to five is used for each sub-attribute. The buyer weights each major attribute with total weight not to exceed 100%.
 
-The major attributes are:
+The major supplier attributes to scorecard are:
 
-1. **Supplier Innovation** - creative ideas, best practices, and technology to increases effectiveness.
+1. **Innovation** - creative ideas, best practices, and technology to increase effectiveness.
 2. **Quality** - the compliance to buyer's specifications and industry standards.
 3. **Support** - proactive supplier response for quality, service, cost and technical support.
 4. **Delivery** - the ability to meet delivery requirements. The ease of doing business to support "end to end" supply chain needs.
