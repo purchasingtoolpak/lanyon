@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supplier Risk Assessment Template
-published: false
+published: true
 ---
 
 This is week five of ten templates in ten weeks. Be sure to check out the procurement templates from weeks one through four.
