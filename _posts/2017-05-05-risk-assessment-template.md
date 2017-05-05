@@ -14,7 +14,7 @@ Week 3:	[supplier cost improvement template]({{site.baseurl}}/2017/04/21/supplie
 
 Week 4: [flexible supplier scorecard template]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
 
-The purpose of the risk assessment template is to idendify areas of high supply risk. The template can be used on a category or product level.
+The purpose of the risk assessment template is to identify areas of high supply risk. The template can be used on a category or product level.
 
 Areas of supply risk to be evaluated are:
 
