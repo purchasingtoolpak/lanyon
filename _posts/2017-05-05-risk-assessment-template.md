@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Supplier Risk Assessment Template
-description: The purpose of the risk assessment template is to identify areas of high supply risk.
-image: http://blog.purchasingtoolpak.com/img/risk-assessment-template.png
+description: Use the supplier risk assessment template to identify areas of high supply risk.
+image: img/risk-assessment-template.png
 author: David Mak
 published: true
 ---
