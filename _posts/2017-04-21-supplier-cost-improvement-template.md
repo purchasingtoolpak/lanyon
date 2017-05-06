@@ -10,7 +10,7 @@ This is week three of ten new templates in ten weeks. If you are new to this blo
 
  Week 2:	[request for quotation template]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
 
-If you are looking for a way to increase the pipeline of cost reduction projects - a fantastic resource is to go to your key suppliers for ideas. New and existing suppliers are typically willing to share ideas. This is a great way to increase collaboration with suppliers in a positive / sharing way.
+If you are looking for a way to increase the pipeline of cost reduction projects - a fantastic resource is to go to your key suppliers for ideas. New and existing suppliers are typically willing to share ideas. This is a great way to increase collaboration with suppliers in a positive / sharing way. <!--more-->
 
 Using supplier resources for cost reduction ideas, documenting results and sharing benefits goes back to the Chrysler SCORE (Supplier Cost Reduction Effort) program. I like this quote from Bob Lutz president of Chrysler operations,  in a meeting with the top 25 suppliers he said; "All I want is your brainpower, not your margins".  For more details check out these resources <a href="http://www-personal.umich.edu/~afuah/cases/case3.html"> Innovations In Supply Chain Management</a> a University of Michigan case study and <a href="https://www.bcgperspectives.com/content/articles/sourcing_procurement_supply_chain_management_buyer_supplier_collaboration_roadmap_for_success/"> Buyer-Supplier Collaboration A Roadmap for Success written by BCG</a>.
 
