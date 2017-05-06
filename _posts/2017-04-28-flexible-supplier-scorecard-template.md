@@ -2,7 +2,7 @@
 layout: post
 title: Flexible Supplier Scorecard Template
 description: The flexible scorecard template will scorecard both goods and services suppliers. Buyers can customize the scorecard to address unique requirements of the buying category. For example, this template could scorecard both goods and services suppliers.
-image: http://blog.purchasingtoolpak.com/img/flexible-scorecard-template.png
+image: img/flexible-scorecard-template.png
 published: true
 ---
 
