@@ -8,7 +8,7 @@ published: true
 
 ### Week One of Ten Templates in Ten Weeks
 
-The strategic sourcing template is the first procurement template in our series - ten templates in ten weeks. This template does not follow the 7 step strategic sourcing methodology - however it is an easy and intuitive tool for developing category sourcing strategies. Some of the benefits of this strategy template are:
+The strategic sourcing template is the first procurement template in our series - ten templates in ten weeks. This template does not follow the 7 step strategic sourcing methodology - however it is an easy and intuitive tool for developing category sourcing strategies. Some of the benefits of this strategy template are: <!--more-->
 
 - It requires less training to implement 
 - Uses less resources to implement
