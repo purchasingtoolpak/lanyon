@@ -8,7 +8,7 @@ This is week two of ten templates in ten weeks. To see week one - go to the [sou
 
 The request for quotation template is one of my favorites for a buying category bid. Use this template for a major bid event - typically for a multi-year agreement.
 
-The bid is organized into 5 sections:
+The bid is organized into 5 sections: <!--more-->
 1. **Introduction** - invitation letter to partipating suppliers
 2. **RFP overview** provides important dates, rules of engagement, disclaimer and requirements for service level, quality, inventory and pricing.
 3. A set of **instructions** on how to complete the request for quotation.
