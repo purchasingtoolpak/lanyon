@@ -2,7 +2,7 @@
 layout: post
 title: Supplier Cost Improvement Template
 description: If you are looking for a way to increase the pipeline of cost reduction projects - a fantastic resource is to go to your key suppliers for ideas. Use the supplier cost improvement template to increase collaboration with suppliers in a positive / sharing way.
-image: supplier-section.png
+image: img/supplier-section.png
 published: true
 ---
 
