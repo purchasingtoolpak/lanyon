@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ten New Templates in Ten Weeks
+description: Purchasing Toolpak provides purchasing agents and professional buyers easy to use Word and Excel templates. These templates  help buyers improve their productivity and knowledge for their respective organization.
 published: true
 ---
 
