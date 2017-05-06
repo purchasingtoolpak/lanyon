@@ -12,9 +12,9 @@ This is week four of ten new templates in ten weeks. If you are new to this blog
 
  Week 3:	[supplier cost improvement template]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
 
-The flexible scorecard template will work with most buying categories.  Buyers can customize the scorecard to address unique requirements of the buying category. For example, this template could scorecard both goods and services suppliers.
+The flexible scorecard template will work with most buying categories.  Buyers can customize the scorecard to address unique requirements of the buying category. For example, this template could scorecard both goods and services suppliers. <!--more-->
 
-This template has five major attributes with three sub-attributes stating the scorecard criteria. A rating scale of one to five is used for each sub-attribute. The buyer weights each major attribute with total weight not to exceed 100%.
+This template has five major attributes with three sub-attributes stating the scorecard criteria. A rating scale of one to five is used for each sub-attribute. The buyer weights each major attribute with total weight not to exceed 100%. 
 
 The major supplier attributes to scorecard are:
 
