@@ -8,12 +8,13 @@
 
   <!-- the SEO tag seems to include the title - declide later to take out -->
   <title>
+    {% comment %}
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
-    
+    {% endcomment %}
   </title>
 
   <!-- CSS -->
@@ -33,6 +34,6 @@
     {% include analytics.html %}
   {% endif %}
   
-  <!-- seo tag includes the header tag -->
+  <!-- seo tag includes the title tag -->
   {% seo %}
 </head>
