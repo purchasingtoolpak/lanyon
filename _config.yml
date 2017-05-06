@@ -10,6 +10,7 @@ description:         'Click here to return to <a href="http://purchasingtoolpak.
 url:                 http://blog.purchasingtoolpak.com
 baseurl:             
 paginate:            5
+excerpt_separator: <!--more-->
 
 # About/contact
 author:
