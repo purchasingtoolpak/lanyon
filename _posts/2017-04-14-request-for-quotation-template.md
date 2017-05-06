@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Request for Quotation Template
+description: Purchasing Agents and professional buyers use this template for a major bid event - typically for a multi-year agreement.
+image: img/rfp-overview.png
 published: true
 ---
 
