@@ -2,7 +2,7 @@
 layout: post
 title: Flexible Supplier Scorecard Template
 description: The flexible scorecard template will scorecard both goods and services suppliers.
-image: {{site.baseurl}}/img/flexible-scorecard-template.png
+image: site.baseurl/img/flexible-scorecard-template.png
 published: true
 ---
 
