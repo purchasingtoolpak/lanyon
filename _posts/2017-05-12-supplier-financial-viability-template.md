@@ -21,7 +21,7 @@ Week 4: [flexible supplier scorecard template]({{site.baseurl}}/2017/04/28/flexi
 Week 5: [supplier risk assessment template]({{site.baseurl}}/2017/05/05/risk-assessment-template)
 <!--more-->
 
-Before using the financial viability template complete the <a href="/2017/05-05/risk-assessment-template/">risk assessment template</a>.  Key questions regarding supplier, industry, and product risks are provided in the risk assessment.
+Before using the financial viability template complete the <a href="/2017/05/05/risk-assessment-template/">risk assessment template</a>.  Key questions regarding supplier, industry, and product risks are provided in the risk assessment.
 
 The financial viability template has several key ratios. Definitions below are from Investopedia.
 
