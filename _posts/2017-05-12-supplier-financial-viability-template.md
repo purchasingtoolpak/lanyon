@@ -27,7 +27,7 @@ The financial viability template has several key ratios. Definitions below are f
 
 - **Quick Ratio** - measures a company's ability to meet its short-term obligations with its most liquid assets.
 - **Debt / Equity** - indicates what portion of equity and debt the company is using to finance its assets.
-- **Operating Cash Flow** the cash generated from the operations of a company.
+- **Operating Cash Flow** - the cash generated from the operations of a company.
 
 These ratios provide the status and progress. How bad is the situation? Is this supplier making progress over time?
 
