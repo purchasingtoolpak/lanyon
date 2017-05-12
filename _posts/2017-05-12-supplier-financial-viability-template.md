@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supplier Fiancial Viability Template
+title: Supplier Financial Viability Template
 image: img/supplier-financial-viability-template.png
 description: Use the supplier financial viability template to monitor suppliers facing severe financial difficulties. Typically for a vendor going into or out of bankruptcy.
 published: true
