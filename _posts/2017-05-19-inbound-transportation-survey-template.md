@@ -38,7 +38,7 @@ See below for a screen shot of the inbound transportation survey template for pr
   ![risk-assessment-template]({{site.baseurl}}/img/inbound-transportation-survey-template.png)
  </div>
 
-To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/inbound-transporation-survey-template.xlsx">inbound transportation survey template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/inbound-transportation-survey-template.xlsx">inbound transportation survey template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#team">link</a>.
 
  If you have questions or comments please contact me through this link:
  [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
