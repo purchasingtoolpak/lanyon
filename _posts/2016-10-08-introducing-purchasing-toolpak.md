@@ -4,11 +4,11 @@ title: Introducing Purchasing Toolpak
 published: true
 ---
 
-Purchasing Toolpak provides tools and templates for professional buyers. The templates help buyers improve productivity as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
+Purchasing Toolpak provides free Excel and Word templates for procurement. The templates help buyers increase purchsing power as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
 
 ### Use Excel and Word Templates
 
-The templates are compatible with Microsoft Office Excel and Word. In addition the templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. Any templates using macros will only work with Excel for Windows. Microsoft® and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States
+The free templates are compatible with Microsoft Office Excel and Word. In addition the free templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. However, any template using macros will only work with Excel for Windows. Microsoft® and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States
 and/or other countries. <!--more-->
 
 ### Some of the most popular templates
@@ -24,7 +24,7 @@ or equipment.
 
 ### Future Development
 
-A number of templates are planned to be released in the future. Subscribe to Purchasing Toolpak blog to learn about new tool and templates for professional buyers.
+A number of templates are planned to be released in the future. Be sure to check out the blog post - ten procurement templates in ten weeks. Here is the link for week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template). Subscribe to Purchasing Toolpak blog to learn about new tool and templates for professional buyers.
 
 ### Download
 
