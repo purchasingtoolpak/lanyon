@@ -24,7 +24,7 @@ or equipment.
 
 ### Future Development
 
-A number of templates are planned to be released in the future. Be sure to check out the blog post - ten procurement templates in ten weeks. Here is the link for week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template). Subscribe to Purchasing Toolpak blog to learn about new tool and templates for professional buyers.
+A number of templates are planned to be released in the future. Be sure to check out the blog post - ten procurement templates in ten weeks. Here is the link for week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template). Subscribe to Purchasing Toolpak blog to learn about new tools and templates for procurement.
 
 ### Download
 
