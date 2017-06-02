@@ -14,7 +14,6 @@ Here is a screenshot of the procurement stakeholder feedback template:
 There are four columns is the stakeholder feedback template:
 
 1. **Stakeholder Feedback** - state both formal and informal feedback regarding issues and opportunities for improvement.
-
 2. **Restatement of Problem** - procurement uses root cause analysis to restate understanding of the underlying issues.
 3. **Resolution to the Problem** - list action steps that will resolve stakeholder issues and concerns.
 4. **Measure of Progress** - state direct quantifiable metrics to measure action plans.
@@ -43,7 +42,7 @@ I would recommend that procurement track stakeholder feedback on a department-wi
 
 Using lean six sigma would be a preferred approach for complex projects. The DMAIC method (design, measure, analyze, improve, control) is a proven method yielding great results.
 
-To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/quality/stakeholder-feedback-template.pptx">stakeholder feedback template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/quality/stakeholder-feedback-template.pptx">stakeholder feedback template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#team">link</a>.
 
 If you have questions or comments please contact me through this link:
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
