@@ -8,7 +8,7 @@ title:               Purchasing Toolpak Blog
 tagline:             'Procurement Tools and Templates for procurement professionals'
 description:         'Pocurement blog focused on free tools and templates for professional buyers.</a>.'
 url:                 http://blog.purchasingtoolpak.com
-baseurl:             http://purchasingtoolpak.com
+baseurl:             
 paginate:            5
 excerpt_separator: <!--more-->
 
