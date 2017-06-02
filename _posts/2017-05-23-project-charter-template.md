@@ -22,7 +22,7 @@ Week 5: [supplier risk assessment template]({{site.baseurl}}/2017/05/05/risk-ass
 
 Week 6: [supplier financial viability template]({{site.baseurl}}/2017/05/12/supplier-financial-viability-template)
 
-Week 7: [inbound transportation survey template]({{site.baseurl}}/2017-05-19-inbound-transportation-survey-template)
+Week 7: [inbound transportation survey template]({{site.baseurl}}/2017/05/19/inbound-transportation-survey-template)
 <!--more-->
 
 In a one-page summary, the project charter template provides information about key cost reduction initiatives. Key areas to complete on the project charter template include:
