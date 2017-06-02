@@ -5,10 +5,10 @@ permalink:           pretty
 
 # Setup
 title:               Purchasing Toolpak Blog
-tagline:             'Tools and Templates for Professional Buyers'
-description:         'Click here to return to <a href="http://purchasingtoolpak.com" target="_blank">Purchasing Toolpak</a> a site focused on tools and templates for professional buyers.</a>.'
+tagline:             'Procurement Tools and Templates for procurement professionals'
+description:         'Pocurement blog focused on free tools and templates for professional buyers.</a>.'
 url:                 http://blog.purchasingtoolpak.com
-baseurl:             
+baseurl:             http://purchasingtoolpak.com
 paginate:            5
 excerpt_separator: <!--more-->
 
