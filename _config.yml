@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Purchasing Toolpak Blog
-tagline:             'Procurement Tools and Templates for procurement professionals'
-description:         'Pocurement blog focused on free tools and templates for professional buyers.</a>.'
+tagline:             Tools and Templates for procurement professionals
+description:         Pocurement blog focused on news and information about tools and templates for procurement professionals.
 url:                 http://blog.purchasingtoolpak.com
 baseurl:             
 paginate:            5
