@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Flexible Supplier Scorecard Template
-description: The flexible scorecard template will scorecard both goods and services suppliers. Buyers can customize the scorecard to address unique requirements of the buying category. For example, this template could scorecard both goods and services suppliers.
+description: The flexible scorecard template will scorecard both goods and services suppliers. Procurement can customize the supplier scorecard template to address unique requirements of the buying category. For example, this procurement template could scorecard both goods and services suppliers.
 image: img/flexible-scorecard-template.png
 published: true
 ---
 
-This is week four of ten new templates in ten weeks. If you are new to this blog, be sure to check out the procurement templates from weeks one, two and three:
+This is week four of ten new procurement templates in ten weeks. If you are new to this blog, be sure to check out the procurement templates from weeks one, two and three:
 
  Week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
@@ -34,7 +34,7 @@ See below for a screen shot of the flexible scorecard template:
 ![flxible-supplier-scorecard-template]({{site.baseurl}}/img/flexible-scorecard-template.png)
  </div>
 
-To download this template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/flexible-supplier-scorecard-template.xlsx">flexible supplier scorecard template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this procurement template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/flexible-supplier-scorecard-template.xlsx">flexible supplier scorecard template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
 
 If you have questions or comments about please contact me through this link:
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
