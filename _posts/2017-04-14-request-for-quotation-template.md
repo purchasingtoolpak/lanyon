@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Request for Quotation Template
-description: Purchasing Agents and professional buyers use this template for a major bid event - typically for a multi-year agreement.
+title: Request for Quotation Template - RFQ
+description: Procurement uses this template for major bid events - typically for a multi-year agreement.
 image: img/rfp-overview.png
 published: true
 ---
 
-This is week two of ten templates in ten weeks. To see week one - go to the [sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template) blog post.
+This is week two of ten procurement templates in ten weeks. To see week one - go to the [sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template) blog post.
 
 The request for quotation template is one of my favorites for a buying category bid. Use this template for a major bid event - typically for a multi-year agreement.
 
@@ -23,7 +23,7 @@ The request for quotation template could also be used with an online bidding sys
 Here are some screenshots from the request for quoation Excel template:
 <div style="text-align:left" markdown="1">
 
-### RFP Overview
+### RFQ Overview
 
 ![bid-overview]({{site.baseurl}}/img/rfp-overview.png)
 
@@ -37,7 +37,7 @@ Here are some screenshots from the request for quoation Excel template:
 
 </div>
 
-To download this template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/bid-analysis/rfp-major-bid-template.xlsx">sourcing strategy template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this procurement template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/bid-analysis/rfp-major-bid-template.xlsx">sourcing strategy template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
 
 If you have questions or comments about this template please contact me through this link:
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
