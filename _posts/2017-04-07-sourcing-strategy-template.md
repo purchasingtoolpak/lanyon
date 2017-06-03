@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sourcing Strategy Template
+title: Sourcing Strategy for Procurement Template
 description: Purchasing Agents and professional buyers use the sourcing strategy template to develop cateogory strategies. While it doesn't follow the 7 step strategic sourcing methodology, it is an easy and intuitive tool for developing category sourcing strategies.
 image: img/industry-assessment.png
 published: true
