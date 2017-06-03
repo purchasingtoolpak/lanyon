@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stakeholder Feedback Template
+title: Stakeholder Feedback Procurement Template
 image: img/stakeholder-feedback-template.png
 description: Procurement uses the stakeholder feedback template to document key issues, resolution and measure progress.
 keywords: Procurement Blog, Purchasing Blog, Purchasing News
