@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supplier Risk Assessment Procurement Template
-description: Purchasing Agents and professional buyers use the supplier risk assessment template to identify areas of high supply risk.
+description: Procurement uses the supplier risk assessment template to identify areas of high supply risk.
 image: img/risk-assessment-template.png
 author: David Mak
 published: true
