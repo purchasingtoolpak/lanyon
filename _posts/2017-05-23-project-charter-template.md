@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Charter Template for Procurement
+title: Project Charter Procurement Template
 image: img/project-charter-template.png
 description: Procurement uses the project charter template to document and track cost reduction initiatives.
 published: true
