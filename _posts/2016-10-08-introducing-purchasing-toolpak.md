@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Introducing Purchasing Toolpak
+title: Introducing Procurement Blog by Purchasing Toolpak
+description: Procurement Blog by Purchasing Toolpak providing free tools and templates for procurement professionals.
+keywords: Procurement Blog, Purchasing Blog, Purchasing Power, Procurement News
 published: true
 ---
 
-Purchasing Toolpak provides free Excel and Word templates for procurement. The templates help buyers increase purchsing power as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
+Purchasing Toolpak provides free Excel and Word templates for procurement. The procurement templates help buyers increase purchasing power as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
 
 ### Use Excel and Word Templates
 
-The free templates are compatible with Microsoft Office Excel and Word. In addition the free templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. However, any template using macros will only work with Excel for Windows. Microsoft® and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States
+The free procurement templates are compatible with Microsoft Office Excel and Word. In addition the free templates are also compatible with Pages and Numbers for Mac and IOS, Google Docs and Sheets and Apache Open Office. However, any procurement template using macros will only work with Excel for Windows. Microsoft® and the Office logo are trademarks or registered trademarks of Microsoft Corporation in the United States
 and/or other countries. <!--more-->
 
 ### Some of the most popular templates
