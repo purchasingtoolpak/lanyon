@@ -19,12 +19,10 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
   
-  <!-- seo tag includes the title tag -->
-  {% seo %}
-  
   {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
   {% endif %}
   
-  
+  <!-- seo tag includes the title tag -->
+  {% seo %}
 </head>
