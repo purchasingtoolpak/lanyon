@@ -8,7 +8,7 @@ published: true
 
 Use the financial viability template to monitor suppliers facing severe financial difficulties. These are vendors identified as part of a risk assessment. Typically for a company going into or out of bankruptcy.
 
-This is week six of ten templates in ten weeks. Be sure to check out the procurement templates from weeks one through five.
+This is week six of ten free procurement templates in ten weeks. Be sure to check out the procurement templates from weeks one through five.
 
 Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
