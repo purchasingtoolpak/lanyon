@@ -8,11 +8,11 @@ published: true
 
 This is week four of ten new procurement templates in ten weeks. If you are new to this blog, be sure to check out the procurement templates from weeks one, two and three:
 
- Week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
+ Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
- Week 2:	[request for quotation template]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
+ Week 2:	[request for quotation]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
 
- Week 3:	[supplier cost improvement template]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
+ Week 3:	[supplier cost improvement]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
 
 The flexible scorecard template will work with most buying categories.  Buyers can customize the scorecard to address unique requirements of the buying category. For example, this template could scorecard both goods and services suppliers. <!--more-->
 
