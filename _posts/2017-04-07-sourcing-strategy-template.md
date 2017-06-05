@@ -3,6 +3,7 @@ layout: post
 title: Sourcing Strategy for Procurement Template
 description: Purchasing Agents and professional buyers use the sourcing strategy template to develop cateogory strategies. While it doesn't follow the 7 step strategic sourcing methodology, it is an easy and intuitive tool for developing category sourcing strategies.
 image: img/industry-assessment.png
+image alt: Procurement Sourcing Strategy Word Template
 published: true
 ---
 
@@ -49,7 +50,7 @@ Below are snapshots from the procurement sourcing strategy template:
 
 </div>
 
-To download this template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/sourcing-strategy-template.docx">sourcing strategy template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this procurement template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/sourcing-strategy-template.docx">sourcing strategy template</a> and click on the download button. You can download all the procurement templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
 
-If you have questions or comments about this template please contact me through this link: 
+If you have questions or comments about the sourcing strategy procurement template please contact me through this link: 
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
