@@ -5,24 +5,25 @@ image: img/project-charter-template.png
 description: Procurement uses the project charter template to document and track cost reduction initiatives.
 published: true
 ---
+## Procurement Project Charter for Cost Reduction Projects
 
-Purchasing uses the project charter template to document and track cost reduction initiatives.  Each buyer in the purchasing department completes project charters. The project charter slides are typically collated into a purchasing department presentation. The template file format is Microsoft PowerPoint.
+Procurement uses the project charter template to document and track cost reduction initiatives.  Each buyer in the procurement department completes project charters. The project charter slides are typically collated into a purchasing department presentation. The template file format is Microsoft PowerPoint.
 
 This is week eight of ten free procurement templates in ten weeks. Be sure to check out the procurement templates from weeks one through seven.
 
-Week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
+Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
-Week 2:	[request for quotation template]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
+Week 2:	[request for quotation rfq]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
 
-Week 3:	[supplier cost improvement template]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
+Week 3:	[supplier cost improvement]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
 
-Week 4: [flexible supplier scorecard template]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
+Week 4: [flexible supplier scorecard]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
 
-Week 5: [supplier risk assessment template]({{site.baseurl}}/2017/05/05/risk-assessment-template)
+Week 5: [supplier risk assessment]({{site.baseurl}}/2017/05/05/risk-assessment-template)
 
-Week 6: [supplier financial viability template]({{site.baseurl}}/2017/05/12/supplier-financial-viability-template)
+Week 6: [supplier financial viability]({{site.baseurl}}/2017/05/12/supplier-financial-viability-template)
 
-Week 7: [inbound transportation survey template]({{site.baseurl}}/2017/05/19/inbound-transportation-survey-template)
+Week 7: [inbound transportation survey]({{site.baseurl}}/2017/05/19/inbound-transportation-survey-template)
 <!--more-->
 
 In a one-page summary, the project charter template provides information about key cost reduction initiatives. Key areas to complete on the project charter template include:
