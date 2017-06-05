@@ -5,22 +5,23 @@ image: img/inbound-transportation-survey-template.png
 description: Procurement uses the inbound transportation survey template to identify inbound lanes, carriers and costs.
 published: true
 ---
+## Procurement Decreases Inbound Freight Costs 
 
 Purchasing Agents use the transportation template to survey suppliers for inbound shipping data. The template identifies inbound lanes, carriers, and freight cost information. The survey requests information on both full truckload and less than truckload shipments.
 
 This is week seven of ten templates in ten weeks. Be sure to check out the procurement templates from weeks one through six.
 
-Week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
+Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
-Week 2:	[request for quotation template]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
+Week 2:	[request for quotation]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
 
-Week 3:	[supplier cost improvement template]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
+Week 3:	[supplier cost improvement]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
 
-Week 4: [flexible supplier scorecard template]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
+Week 4: [flexible supplier scorecard]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
 
-Week 5: [supplier risk assessment template]({{site.baseurl}}/2017/05/05/risk-assessment-template)
+Week 5: [supplier risk assessment]({{site.baseurl}}/2017/05/05/risk-assessment-template)
 
-Week 6: [supplier financial viability template]({{site.baseurl}}/2017/05/12/supplier-financial-viability-template)
+Week 6: [supplier financial viability]({{site.baseurl}}/2017/05/12/supplier-financial-viability-template)
 <!--more-->
 
 Further analysis can be completed by procurement to identify:
