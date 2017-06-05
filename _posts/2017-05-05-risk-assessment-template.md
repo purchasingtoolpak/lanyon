@@ -9,13 +9,13 @@ published: true
 
 This is week five of ten procurement templates in ten weeks. Be sure to check out the procurement templates from weeks one through four.
 
-Week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
+Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
-Week 2:	[request for quotation template]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
+Week 2:	[request for quotation]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
 
-Week 3:	[supplier cost improvement template]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
+Week 3:	[supplier cost improvement]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
 
-Week 4: [flexible supplier scorecard template]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
+Week 4: [flexible supplier scorecard]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
 
 The purpose of the risk assessment template is to identify areas of high supply risk. The template can be used on a category or product level. <!--more-->
 
@@ -35,7 +35,7 @@ See below for a screen shot of the supplier risk assessment template:
   ![risk-assessment-template]({{site.baseurl}}/img/risk-assessment-template.png)
  </div>
 
- To download this template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/risk-assessment-template.xlsx">supplier risk assessment template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
+ To download the supplier risk assessment template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/risk-assessment-template.xlsx">supplier risk assessment template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
 
  If you have questions or comments about please contact me through this link:
  [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
