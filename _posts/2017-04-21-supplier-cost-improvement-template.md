@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Supplier Cost Improvement Template
-description: If procurement is looking for a way to increase the pipeline of cost reduction projects - a fantastic resource is to go to your key suppliers for ideas. Use the supplier cost improvement procurement template to increase collaboration with suppliers in a positive and sharing way.
+description: Procurement can increase the number of cost reduction projects - by obtaining ideas from key suppliers. Procurement uses the supplier cost improvement template to increase collaboration with suppliers in a positive and sharing way.
 image: img/supplier-section.png
 published: true
 ---
 
 This is week three of ten new procurement templates in ten weeks. If you are new to this blog, be sure to check out these templates:
 
- Week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
+ Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
- Week 2:	[request for quotation template]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
+ Week 2:	[request for quotation]({{site.baseurl}}/2017/04/14/request-for-quotation-template)
 
 If you are looking for a way to increase the pipeline of cost reduction projects - a fantastic resource is to go to your key suppliers for ideas. New and existing suppliers are typically willing to share ideas. This is a great way to increase collaboration with suppliers in a positive / sharing way. <!--more-->
 
