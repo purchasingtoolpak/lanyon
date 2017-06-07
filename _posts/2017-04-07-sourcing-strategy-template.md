@@ -50,7 +50,7 @@ Below are snapshots from the procurement sourcing strategy template:
 
 </div>
 
-To download this procurement template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/sourcing-strategy-template.docx">sourcing strategy template</a> and click on the download button. You can download all the procurement templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this procurement template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/sourcing-strategy-template.docx">sourcing strategy template</a> and click on the download button. You can download all the procurement templates by going to this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
 If you have questions or comments about the sourcing strategy procurement template please contact me through this link: 
-[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
+[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
