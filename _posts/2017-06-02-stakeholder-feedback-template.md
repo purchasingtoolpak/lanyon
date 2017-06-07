@@ -44,7 +44,7 @@ I would recommend that procurement track stakeholder feedback on a department-wi
 
 Using lean six sigma would be a preferred approach for complex projects. The DMAIC method (design, measure, analyze, improve, control) is a proven method yielding great results.
 
-To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/quality/stakeholder-feedback-template.pptx">stakeholder feedback template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/quality/stakeholder-feedback-template.pptx">stakeholder feedback template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
 If you have questions or comments please contact me through this link:
-[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
+[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
