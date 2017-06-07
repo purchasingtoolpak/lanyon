@@ -35,7 +35,7 @@ See below for a screen shot of the supplier risk assessment template:
   ![risk-assessment-template]({{site.baseurl}}/img/risk-assessment-template.png)
  </div>
 
- To download the supplier risk assessment template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/risk-assessment-template.xlsx">supplier risk assessment template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
+ To download the supplier risk assessment template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/risk-assessment-template.xlsx">supplier risk assessment template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
  If you have questions or comments about please contact me through this link:
- [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
+ [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
