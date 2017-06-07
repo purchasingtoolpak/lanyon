@@ -36,7 +36,7 @@ Here are some screen shots of the supplier cost improvement template:
 ![project-scope]({{site.baseurl}}/img/project-scope.png)
 </div>
 
-To download this template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/supplier-cost-improvement-template.docx">sourcing strategy template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/supplier-cost-improvement-template.docx">sourcing strategy template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
 If you have questions or comments about this template please contact me through this link:
-[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
+[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
