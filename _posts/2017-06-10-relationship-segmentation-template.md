@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relationship Segmentation Template
+title: Relationship Segmentation Procurement Template
 image: img/relationship-segmentation-template.png
 description: Procurement uses the relationship segmentation template to segment buying categories and suppliers.
 published: true
