@@ -13,9 +13,9 @@ This is the tenth procurement template, in our series 10 free procurement templa
 
 The procurement sourcing team scores economic and compatibility criteria on a scale of one through five. In all, there are 10 criteria for evaluation. The rating scale for determining each tier is as follows;
 
-**Tier 1 Strategic Relationship** - score greater than 20 points
-**Tier 2 Preferred Relationship** - score greater than 15 and less than 20
-**Tier 3 Transactional Relationship** - score less than 15
+* **Tier 1 Strategic Relationship** - score greater than 20 points
+* **Tier 2 Preferred Relationship** - score greater than 15 and less than 20
+* **Tier 3 Transactional Relationship** - score less than 15
 <!--more-->
 
 ### Economic Drivers for Relationship Assessment ###
@@ -38,13 +38,13 @@ The five compatibility areas evaluation by the procurement sourcing team are:
 
 Here is a screenshot of the relationship segmentation assessment template.
 <div style="text-align:left" markdown="1">
- ![relationship-segmentation-template]({{site.baseurl}}/img/stakeholder-feedback-template.png)
+ ![relationship-segmentation-template]({{site.baseurl}}/img/relationship-segmentation-template.png)
 </div>
 
-To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/relationship-segmentation-template.xlsx">relationship segmentation template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#team">link</a>.
+To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/supplier-segmentation-template.xlsx">relationship segmentation template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#team">link</a>.
 
 If you have questions or comments please contact me through this link:
-[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact "Contact Purchasing Toolpak")
+[http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
 
 Here is a list of all of the free procurement templates for weeks one through ten.  
 
