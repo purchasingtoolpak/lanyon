@@ -41,7 +41,7 @@ Here is a screenshot of the relationship segmentation assessment template.
  ![relationship-segmentation-template]({{site.baseurl}}/img/relationship-segmentation-template.png)
 </div>
 
-To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/supplier-segmentation-template.xlsx">relationship segmentation template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
+To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/relationship-segmentation-template.xlsx">relationship segmentation template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
 If you have questions or comments please contact me through this link:
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
