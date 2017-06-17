@@ -25,4 +25,7 @@
   
   <!-- seo tag includes the title tag -->
   {% seo %}
+  
+  {%if page.tags %}
+  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
 </head>
