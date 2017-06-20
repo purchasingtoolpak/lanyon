@@ -23,6 +23,11 @@
     {% include analytics.html %}
   {% endif %}
   
+  {% if page.keywords %}
+	  <meta name="keywords" content="{ page.keywords }" />
+  {% else %}
+	  <meta name="keywords" content="Procurement Blog, Procurement Templates, News, Magazine, Articles" />
+{% endif %}
   <!-- seo tag includes the title tag -->
   {% seo %}
   
