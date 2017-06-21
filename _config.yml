@@ -4,7 +4,7 @@
 permalink:           pretty
 
 # Setup
-title:               Procurement Blog -
+title:               Procurement Blog by Purchasing Toolpak
 tagline:             Procurement Tools and Templates by Purchasing Toolpak LLC
 description:         Pocurement blog focused on news and information about tools and templates for procurement professionals.
 url:                 http://blog.purchasingtoolpak.com
@@ -23,7 +23,26 @@ version:             1.0.0
 
 gems:
   - jekyll-seo-tag
-# - jekyll-sitemap
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll/minibundle
   
 # Google services
 #  google_analytics: UA-86996516-1
+
+# minifier settings
+minibundle:
+  minifier_commands:
+    js: uglifyjs -
+    
+source_dir: _assets/javascripts
+  destination_path: /assets/head
+  assets:
+    - jquery-2.1.4
+    - bootstrap
+    - slick
+    - slides
+    - layout
+    - flickr-import
+  attributes:
+    async: async    
