@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Procurement Blog by Purchasing Toolpak
-tagline:             Procurement Tools and Templates by Purchasing Toolpak LLC
-description:         Pocurement blog focused on news and information about tools and templates for procurement professionals.
+title:               Procurement Blog by Purchasing Toolpak LLC
+tagline:             Procurement templates for procurement professionals
+description:         Pocurement blog focused on news and information about templates and tools for procurement professionals.
 url:                 http://blog.purchasingtoolpak.com
 baseurl:             
 paginate:            5
