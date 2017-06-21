@@ -34,15 +34,3 @@ gems:
 minibundle:
   minifier_commands:
     js: uglifyjs -
-    
-source_dir: _assets/javascripts
-  destination_path: /assets/head
-  assets:
-    - jquery-2.1.4
-    - bootstrap
-    - slick
-    - slides
-    - layout
-    - flickr-import
-  attributes:
-    async: async    
