@@ -34,8 +34,7 @@ gems:
 # - https://jekyll.github.io/jekyll-assets/
 assets:
   sources:
-    - _assets/css
-    - _assets/js
+    - public/css
   autoprefixer:
     browsers: ["last 2 versions","> 5%","IE 9"]
 
