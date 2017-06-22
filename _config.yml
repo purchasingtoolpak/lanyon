@@ -25,10 +25,19 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll/minibundle
+  - jekyll-assets
   
 # Google services
 #  google_analytics: UA-86996516-1
+
+# Jekyll Assets
+# - https://jekyll.github.io/jekyll-assets/
+assets:
+  sources:
+    - _assets/css
+    - _assets/js
+  autoprefixer:
+    browsers: ["last 2 versions","> 5%","IE 9"]
 
 # minifier settings
 minibundle:
