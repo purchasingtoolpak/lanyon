@@ -25,14 +25,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-assets
-
-assets:
-  compress:
-    css: true
-  css_compressor: scss
-  features:
-    liquid: true
-
+ 
 # Google services
 #  google_analytics: UA-86996516-1
