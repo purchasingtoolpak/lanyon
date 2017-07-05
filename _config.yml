@@ -25,6 +25,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-assets
     
 # Google services
 #  google_analytics: UA-86996516-1
