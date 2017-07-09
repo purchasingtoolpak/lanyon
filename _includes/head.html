@@ -9,8 +9,8 @@
    
   <script>
       var cb = function() {
-        var l = document.createElement('link'); l.rel = 'stylesheet';
-        l.href = 'public.main2.css';
+        var l = document.createElement('link'); l.rel = 'public';
+        l.href = 'main2.css';
         var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
       };
       var raf = requestAnimationFrame || mozRequestAnimationFrame ||
