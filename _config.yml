@@ -30,8 +30,6 @@ gems:
 assets:
   compress:
     css: true
-  sources:
-    - _assets/css
   features:
     liquid: true
  
