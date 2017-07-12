@@ -7,15 +7,17 @@ published: true
 ---
 ### Segment Key Suppliers During Strategy Development
 
-This is the tenth procurement template, in our series 10 free procurement templates in 10 weeks. Procurement uses the relationship segmentation template to segment buying categories and suppliers.
+This is the tenth procurement template, in our blog series 10 free procurement templates in 10 weeks. Procurement uses the relationship segmentation Excel template to segment buying categories and suppliers.
 
 ### Suppliers are Segmented into Three Tiers
 
-The procurement sourcing team scores economic and compatibility criteria on a scale of one through five. In all, there are 10 criteria for evaluation. The rating scale for determining each tier is as follows;
+The procurement sourcing team scores economic and compatibility criteria on a scale of one through five. In all, there are 10 criteria for evaluation on the Excel template. The rating scale for determining each tier is as follows;
 
 * **Tier 1 Strategic Relationship** - score greater than 20 points
 * **Tier 2 Preferred Relationship** - score greater than 15 and less than 20
 * **Tier 3 Transactional Relationship** - score less than 15
+
+Putting suppliers in the correct tier will drive purchasing power for your organization.
 <!--more-->
 
 ### Economic Drivers for Relationship Assessment ###
@@ -36,12 +38,16 @@ The five compatibility areas evaluation by the procurement sourcing team are:
 4. **Assets & Resources** - degree to which a supplier partnership can share assets and resources
 5. **Corporate Compatibility** - commitment and support to partnering for achievement of long-term goals
 
+### Understanding Compatibility Drivers Increases Purchasing Power ###
+
+Matching category needs with supplier capabilities will increase purchasing power. For example, a procurement category that drives significant value for the organization should not be supported by a supplier with only transactional capabilities. Procurement will drive purchasing power by developing suppliers that can achieve strategic value.
+
 Here is a screenshot of the relationship segmentation assessment template.
 <div style="text-align:left" markdown="1">
  ![relationship-segmentation-template]({{site.baseurl}}/img/relationship-segmentation-template.png)
 </div>
 
-To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/strategic-sourcing/strategy-development/relationship-segmentation-template.xlsx">relationship segmentation template</a> and click on the download button. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
+To download this free procurement template go to this link; <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/raw/master/strategic-sourcing/strategy-development/relationship-segmentation-template.xlsx">relationship segmentation template</a>. You can download all the free procurement templates at this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
 If you have questions or comments please contact me through this link:
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
