@@ -3,7 +3,6 @@ layout: post
 title: Inbound Transportation Survey Template
 image: img/inbound-transportation-survey-template.png
 description: Procurement uses the inbound transportation survey template to identify inbound lanes, carriers and costs.
-keywords: Procurement, Procurement Template, Blog, Transportation, Excel Template, Inbound Transportation
 published: true
 ---
 ## Procurement Decreases Inbound Freight Costs 
