@@ -34,7 +34,7 @@ See below for a screen shot of the flexible scorecard template:
 ![flxible-supplier-scorecard-template]({{site.baseurl}}/img/flexible-scorecard-template.png)
  </div>
 
-To download this procurement template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/flexible-supplier-scorecard-template.xlsx">flexible supplier scorecard template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
+To download this procurement template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/raw/master/supplier-integration/flexible-supplier-scorecard-template.xlsx">flexible supplier scorecard template</a>. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
 If you have questions or comments about please contact me through this link:
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
