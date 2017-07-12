@@ -36,7 +36,7 @@ See below for a screen shot of the supplier risk assessment template:
   ![risk-assessment-template]({{site.baseurl}}/img/supplier-financial-viability-template.png)
  </div>
 
- To download the financial viability template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/blob/master/supplier-integration/financial-viability-template.xlsx">supplier financial viability template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
+ To download the financial viability template go to <a href="https://github.com/purchasingtoolpak/purchasingtoolpak/raw/master/supplier-integration/financial-viability-template.xlsx">supplier financial viability template</a> and click on the download button. You can download all the templates by going to this <a href="http://purchasingtoolpak.com/#download-procurement-templates">link</a>.
 
  If you have questions or comments about please contact me through this link:
  [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
