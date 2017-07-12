@@ -2,7 +2,6 @@
 layout: post
 title: Introducing Procurement Blog by Purchasing Toolpak
 description: Procurement Blog by Purchasing Toolpak providing free tools and templates for procurement professionals.
-keywords: Procurement Blog, Purchasing Blog, Purchasing Power, Procurement News
 published: true
 ---
 
