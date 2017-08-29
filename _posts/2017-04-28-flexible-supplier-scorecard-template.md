@@ -14,9 +14,9 @@ This is week four of ten new procurement templates in ten weeks. If you are new 
 
  Week 3:	[supplier cost improvement]({{site.baseurl}}/2017/04/21/supplier-cost-improvement-template)
 
-The flexible scorecard template will work with most buying categories.  Buyers can customize the scorecard to address unique requirements of the buying category. For example, this template could scorecard both goods and services suppliers. <!--more-->
+The flexible scorecard template will work with most buying categories.  Buyers can customize the scorecard to address unique requirements of the buying category. For example, this Excel template could scorecard both goods and services suppliers. Use this template to develop key suppliers to drive purchasing power for your organization. <!--more-->
 
-This template has five major attributes with three sub-attributes stating the scorecard criteria. A rating scale of one to five is used for each sub-attribute. The buyer weights each major attribute with total weight not to exceed 100%. 
+This Excel template has five major attributes with three sub-attributes stating the scorecard criteria. A rating scale of one to five is used for each sub-attribute. The buyer weights each major attribute with total weight not to exceed 100%. 
 
 The major supplier attributes to scorecard are:
 
@@ -26,7 +26,7 @@ The major supplier attributes to scorecard are:
 4. **Delivery** - the ability to meet delivery requirements. The ease of doing business to support "end to end" supply chain needs.
 5. **Cost and Contract** - supplier's ability to provide total least cost solutions.
 
-A meets expectations score for each sub-attribute would be a rating of 3 out of 5. The template has red or green conditional formatting to highlight above or below expectations.
+A meets expectations score for each sub-attribute would be a rating of 3 out of 5. The template has red or green conditional formatting to highlight above or below expectations. Use criteria ratings to develop supplier capabilities to enable improved purchasing power.
 
 See below for a screen shot of the flexible scorecard template:
  <div style="text-align:left" markdown="1">
