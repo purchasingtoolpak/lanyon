@@ -52,7 +52,7 @@ To download this free procurement template go to this link; <a href="https://git
 If you have questions or comments please contact me through this link:
 [http://purchasingtoolpak.com/#contact](http://purchasingtoolpak.com/#contact-purchasing-toolpak "Contact Purchasing Toolpak")
 
-Here is a list of all of the free procurement templates for weeks one through ten.  
+Here is a list of all of the free procurement templates that help drive purchasing power for weeks one through ten.  
 
 Week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
