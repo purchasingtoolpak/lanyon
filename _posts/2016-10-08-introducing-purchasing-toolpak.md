@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Introducing Procurement Blog by Purchasing Toolpak
-description: Procurement Blog by Purchasing Toolpak providing free tools and templates for procurement professionals.
+title: Introducing Purchasing Power Procurement Blog
+description: Procurement Blog by Purchasing Toolpak providing free tools and templates for procurement professionals to increase purchasing power.
 published: true
 ---
 
-Purchasing Toolpak provides free Excel and Word templates for procurement. The procurement templates help buyers increase purchasing power as they develop sourcing strategies, collaborate with suppliers and complete transactional activities.
+Purchasing Toolpak provides free Excel and Word templates for procurement. The procurement templates help buyers increase purchasing power as they develop sourcing strategies, collaborate with suppliers and complete transactional activities. I'll also share knowledge and expertise to improve your organization's purchasing power.
 
 ### Use Excel and Word Templates
 
@@ -18,14 +18,16 @@ Some of the most popular templates and tools are:
 
 * **Purchase Order** - The purchase order template provides the information needed to order parts or services. There are two purchase order templates; one for ordering parts and a second for the purchase of services. 
 * **Bid Evaluation** - Quickly evaluate bids from multiple suppliers. After entering description, quantity and price for each supplier, the bid evaluation template does the rest of the work!
-* **Request for Quotation** - Utilize this template to request suppliers to submit bids for materials, services
+* **Request for Quotation (RFQ, RFP)** - Utilize this template to request suppliers to submit bids for materials, services
 or equipment.
+* **Supplier Segmentation** - Procurement uses the relationship segmentation template to segment buying categories and suppliers.
 * **Supplier Profile Form** - Use the supplier profile form to help assess a supplier's capabilities. Assess the profile to determine if the supplier(s) are capable to participate in the competitive bid process. Use the form to screen new or innovative suppliers prior to technical review by R&D or Engineering.
 * **Contract Approval** - In many organizations procurement policy requires management approval of contracts. Use this template for approval of procurement contracts.
 
+
 ### Future Development
 
-A number of templates are planned to be released in the future. Be sure to check out the blog post - ten procurement templates in ten weeks. Here is the link for week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template). Subscribe to Purchasing Toolpak blog to learn about new tools and templates for procurement.
+A number of new templates have been released. Be sure to check out the blog post - ten procurement templates in ten weeks. Here is the link for week 1:	[sourcing strategy template]({{site.baseurl}}/2017/04/07/sourcing-strategy-template). Subscribe to Purchasing Toolpak blog to learn about new tools and templates for procurement. Use these tools and templates to drive purchasing power.
 
 ### Download
 
