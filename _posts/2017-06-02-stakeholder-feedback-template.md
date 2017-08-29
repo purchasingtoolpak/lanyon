@@ -19,6 +19,7 @@ There are four columns is the stakeholder feedback template:
 3. **Resolution to the Problem** - list action steps that will resolve stakeholder issues and concerns.
 4. **Measure of Progress** - state direct quantifiable metrics to measure action plans.
 
+A key to enabling purchasing power is is to ensure procurement is aligned with key stakeholders. This procurement template will help align both stakeholder and strategic sourcing needs.
 <!--more-->
 
 This is week nine of ten free procurement templates in ten weeks. Be sure to check out the procurement templates from weeks one through eight.
