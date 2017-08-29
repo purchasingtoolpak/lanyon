@@ -9,6 +9,8 @@ published: true
 
 Procurement uses the project charter template to document and track cost reduction initiatives.  Each buyer in the procurement department completes project charters. The project charter slides are typically collated into a purchasing department presentation. The template file format is Microsoft PowerPoint.
 
+Effective procurement teams organize and prioritize key intiatives with the Excel project charter template. Focusing on key priorities enables purchasing power.
+
 This is week eight of ten free procurement templates in ten weeks. Be sure to check out the procurement templates from weeks one through seven.
 
 Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
