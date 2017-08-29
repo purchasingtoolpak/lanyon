@@ -6,9 +6,9 @@ description: Use the supplier financial viability template to monitor suppliers 
 published: true
 ---
 
-Use the financial viability template to monitor suppliers facing severe financial difficulties. These are vendors identified as part of a risk assessment. Typically for a company going into or out of bankruptcy.
+Use the financial viability Excel template to monitor suppliers facing severe financial difficulties. These are vendors identified as part of a risk assessment. Typically for a company going into or out of bankruptcy.
 
-This is week six of ten free procurement templates in ten weeks. Be sure to check out the procurement templates from weeks one through five.
+This is week six of ten free procurement templates in ten weeks. Check out other blog posts for free procurement templates from weeks one through five.
 
 Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
@@ -23,13 +23,13 @@ Week 5: [supplier risk assessment]({{site.baseurl}}/2017/05/05/risk-assessment-t
 
 Before using the financial viability template complete the <a href="/2017/05/05/risk-assessment-template/">risk assessment template</a>.  Key questions regarding supplier, industry, and product risks are provided in the risk assessment.
 
-The financial viability template has several key ratios. Definitions below are from Investopedia.
+The Excel financial viability template has several key ratios. Definitions below are from Investopedia.
 
 - **Quick Ratio** - measures a company's ability to meet its short-term obligations with its most liquid assets.
 - **Debt / Equity** - indicates what portion of equity and debt the company is using to finance its assets.
 - **Operating Cash Flow** - the cash generated from the operations of a company.
 
-These ratios provide the status and progress. How bad is the situation? Is this supplier making progress over time?
+These ratios provide the status and progress. How bad is the situation? Is this supplier making progress over time? Working with suppliers to ensure financial viability helps maintain purchasing power.
 
 See below for a screen shot of the supplier risk assessment template:
  <div style="text-align:left" markdown="1">
