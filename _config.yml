@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Procurement Blog by Purchasing Toolpak
-tagline:             <br/>&nbsp;&nbsp;&nbsp;Procurement Templates & Tools for Procurement Professionals
-description:         Pocurement blog focused on news and information about templates and tools for procurement professionals.
+title:               Purchasing Power Procurement Blog
+tagline:             <br/>&nbsp;&nbsp;&nbsp;Enabling Purchasing Power for Professional Buyers
+description:         Procurement blog about tools and templates for procurement managers and buyers to enable purchasing power. Purchase order form, requisition, RFQ, RFP, contract template for Excel and Word.
 url:                 http://blog.purchasingtoolpak.com
 baseurl:             
 paginate:            5
