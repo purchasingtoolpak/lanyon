@@ -7,7 +7,7 @@ author: David Mak
 published: true
 ---
 
-This is week five of ten procurement templates in ten weeks. Be sure to check out the procurement templates from weeks one through four.
+This is week five of ten procurement templates in ten weeks. Be sure to check blog posts for free procurement templates from weeks one through four.
 
 Week 1:	[sourcing strategy]({{site.baseurl}}/2017/04/07/sourcing-strategy-template)
 
@@ -17,7 +17,7 @@ Week 3:	[supplier cost improvement]({{site.baseurl}}/2017/04/21/supplier-cost-im
 
 Week 4: [flexible supplier scorecard]({{site.baseurl}}/2017/04/28/flexible-supplier-scorecard-template)
 
-The purpose of the risk assessment template is to identify areas of high supply risk. The template can be used on a category or product level. <!--more-->
+The purpose of the risk assessment template is to identify areas of high supply risk. The Excel template can be used on a category or product level. Use this Excel template to maintain or improve purchasing power. <!--more-->
 
 Areas of supply risk to be evaluated are:
 
@@ -28,7 +28,7 @@ Areas of supply risk to be evaluated are:
 5. **Internal** - erratic demand or resource limitations.  
 
 ### When to use the supplier risk assessment template:
-There are three ways to use this template in the procurement process. One, as part of a department wide supply risk program. Two, during the supplier selection process. And three, after a supply disruption occurs for any reason.
+There are three ways to use this template in the procurement process. One, as part of a department wide supply risk program. Two, during the supplier selection process. And three, after a supply disruption occurs for any reason. Pro-actively identifying areas of supply risk helps maintain purchasing power.
 
 See below for a screen shot of the supplier risk assessment template:
  <div style="text-align:left" markdown="1">
