@@ -7,7 +7,7 @@ published: true
 ---
 ## Procurement Decreases Inbound Freight Costs 
 
-Purchasing Agents use the transportation template to survey suppliers for inbound shipping data. The template identifies inbound lanes, carriers, and freight cost information. The survey requests information on both full truckload and less than truckload shipments.
+Purchasing Agents use the transportation template to survey suppliers for inbound shipping data. The template identifies inbound lanes, carriers, and freight cost information. The survey requests information on both full truckload and less than truckload shipments. Procurement leverages key tranportation data to enable purchasing power. Freight lanes and carriers can be optimized with the Inbound Excel template.
 
 This is week seven of ten templates in ten weeks. Be sure to check out the procurement templates from weeks one through six.
 
