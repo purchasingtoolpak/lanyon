@@ -2,7 +2,7 @@
 layout: post
 title: Supply Risk Management - Key learnings from Hurricane Season
 description: Procurement can mitigate shortages through category risk assessment planning.
-published: false
+published: true
 ---
 ### Supply Risk Management - Key Learnings from Hurricane Season
 
